@@ -60,5 +60,3 @@ def plot_site_data(site_num):
     plt.legend()
     plt.grid(True)
     plt.show()
-
-plot_site_data(1)
